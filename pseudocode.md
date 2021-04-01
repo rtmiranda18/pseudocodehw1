@@ -109,6 +109,8 @@ Pseudocode:
 
 Prompt 3: Create a function `median` that takes in an array of integers as an argument. Your function returns the median of your input array.
 
+Pseudocode: 
+
     Step One:
 
     Q: What are you going to do? 
@@ -165,6 +167,85 @@ Prompt 3: Create a function `median` that takes in an array of integers as an ar
 
     A: To be able to get the output which is the median of integers in the array. 
 
+
+Prompt 4: Create a function `mode` that takes in an array of integers as an argument. Your function returns the mode of your input array.
+
+Pseudocode:
+
+    Step One:
+
+    Q: What are you going to do? 
+
+    A: Create a variable sort with the value of an array
+
+    Q: How are you going to do it? 
+
+    A: Use the keyword var, add equal sign and input the value.
+
+    Q: Why are you going to do it? 
+
+    A: To have a baseline of the value of the array
+
+    Step Two: 
+
+    Q: What are you going to do? 
+
+    A: Sort the array 
+
+    Q: How are you going to do it? 
+
+    A: Call the function 'sort'
+
+    Q: Why are you going to do it? 
+
+    A: To make it easier to get the mode
+
+    Step Three: 
+
+    Q: What are you going to do? 
+
+    A: Iterate the array 
+
+    Q: How are you going to do it? 
+
+    A: Use a for loop 
+
+    Q: Why are you going to do it? 
+
+    A: To be able to analyze each element
+
+    Step Four: 
+
+    Q: What are you going to do? 
+
+    A: Compare the values of the current number to the previous number 
+
+    Q: How are you going to do it? 
+
+    A: Use a comparison function
+
+    Q: Why are you going to do it? 
+
+    A: In order to calculate the instances that the value appears 
+
+    Step Five: 
+
+    Q: What are you going to do? 
+
+    A: Return the answer
+
+    Q: How are you going to do it? 
+
+    A: Use the return function
+
+    Q: Why are you going to do it? 
+
+    A: To be able to obtain the outcome which is the mode of the integers in the array
+
     
+
+
+
+
 
 
